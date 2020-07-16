@@ -1,3 +1,5 @@
+<img src="https://github.com/radjavi/radjavi.se/blob/master/favicon.ico" height=24>
+
 ### Hi there 👋
 
 <!--
